@@ -1,4 +1,5 @@
 import math
+
 #program 1: compound interest
 p = float(input("How much money have you saved?"))
 a = float(input("How much does the item you want to purchase cost?"))
@@ -18,7 +19,7 @@ while (angle <0):
 while (angle >360):
   angle = angle%360
 if (angle%90 == 0):
-  refAngle = "none"
+  refAngle = "no reference"
 if (angle >0 and angle<90):
   refAngle = angle
 if (angle>90 and angle<180):
@@ -27,4 +28,4 @@ if (angle > 180 and angle < 270):
   refAngle = angle - 180
 if (angle>270 and angle <360):
   refAngle = 360- angle
-print("Reference Angle:",refAngle)
+print("Reference Angle:",refAngle, "degrees")
