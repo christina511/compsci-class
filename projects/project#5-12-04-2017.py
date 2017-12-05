@@ -9,7 +9,7 @@ session = 0
 fiveMinutes = input('Want to add 5 minutes in between each session? Enter "yes" or "no": ')
 
 while (fiveMinutes!="yes" and fiveMinutes!= "no"):
-  fiveMinutes = input('Want to add 5 minutes in between each session? Enter "yes" or "no": ')
+  fiveMinutes = input('Bad input! Want to add 5 minutes in between each session? Enter "yes" or "no": ')
 
 if (fiveMinutes == "yes"):
   fiveMinutes = True
