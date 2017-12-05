@@ -15,7 +15,7 @@ Program 1: In your very first line type “import math” <br>
 3. Program determines if she has enough money saved <br>
 4. If not enough money is saved, the program will determine how long it will take to save the difference in
 money using a compounded interest formula 𝐴 = 𝑃(1.07)^n𝑡 where A is the amount needed, P is the principle
-amount, and t is the amount of time in years <br>
+amount, and t is the amount of time in years<br>
 Program 2: Write a program in which a user enters a positive angle measured in degrees and the program outputs the
 reference angle of that angle.
 
