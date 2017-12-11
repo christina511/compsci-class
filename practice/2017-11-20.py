@@ -17,7 +17,7 @@ while (action == "hit" and monstHealth >0 and playerHealth > 0):
   chance= random.randint(1,3)
   critAtk= random.randint(1,3)
   if (chance == critAtk):
-    monstDamage = random.randint(1,15)
+    monstDamage = random.randint(11,15)
     print("Critical attack!! >:D")
   print("You dealt", monstDamage, "points of damage to the monster.")
   print("The monster attacked you back, dealing", playerDamage, "points of damage to your life points." )
