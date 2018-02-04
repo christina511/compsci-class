@@ -28,4 +28,4 @@ The day begins at 8:00AM.
 
 #6: Game of Pig!
 
-# Second Semester:
+# Second Semester
