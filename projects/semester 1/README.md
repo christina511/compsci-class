@@ -27,5 +27,3 @@ The program asks the user how long each session will be (in minutes) and outputs
 The day begins at 8:00AM. 
 
 #6: Game of Pig!
-
-# Second Semester
